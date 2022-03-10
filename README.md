@@ -6,7 +6,7 @@
 
 - ✨ working on computer vision for healthcare;
 - ✨ researching algo-trading strategies;
-- ✨ building product from scratch (hardware, full-stack, UI/UX, dev-ops, production)
+- ✨ building product from scratch (hardware, full-stack, UI/UX, dev-ops, production);
 - 🇮🇩 located in Bali, Indonesia;
 - 💸 looking for a job;
 
